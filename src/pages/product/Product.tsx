@@ -1,6 +1,6 @@
 import { singleProduct } from "../../Data";
 import Single from "../../components/single/Single";
-import "./product.scss";
+import "../product/product.scss";
 
 const Product = () => {
   return (

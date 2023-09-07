@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { GridColDef } from "@mui/x-data-grid";
-import "./add.scss";
+import "../add/add.scss";
 
 type Props = {
   slug: string;

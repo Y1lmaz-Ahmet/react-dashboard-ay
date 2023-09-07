@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./products.scss";
+import "../products/products.scss";
 import Add from "../../components/add/Add";
 import { GridColDef } from "@mui/x-data-grid";
 import DataTable from "../../components/dataTable/DataTable";

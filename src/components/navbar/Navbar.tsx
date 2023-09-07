@@ -1,4 +1,4 @@
-import "./navbar.scss";
+import "../navbar/navbar.scss";
 
 const Navbar = () => {
   return (

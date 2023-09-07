@@ -1,6 +1,6 @@
 import { singleUser } from "../../Data";
 import Single from "../../components/single/Single";
-import "./user.scss";
+import "../user/user.scss";
 
 const User = () => {
   return (
